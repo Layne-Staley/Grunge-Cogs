@@ -1,0 +1,9 @@
+{
+    "AUTHOR" : "Layne-Staley",
+    "SHORT" : "Introduction system for new members.",
+    "DESCRIPTION" : "Users are required to create an introduction message in the designated channel before being allowed in certain channels.",
+    "DISABLED" : false,
+    "NAME" : "Introduction",
+    "TAGS" : ["introduction", "intro"],
+    "INSTALL_MSG" : "Thank you for installing Introduction from Grunge Cogs.\nIf you like my cogs please give my repo a star. You can post any issues you have on my github:\nhttps://github.com/Layne-Staley/Grunge-Cogs"
+}
